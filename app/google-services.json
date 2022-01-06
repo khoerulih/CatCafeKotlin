@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "2878921255",
+    "project_id": "catcafe-46f9a",
+    "storage_bucket": "catcafe-46f9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2878921255:android:2a0e8ea2a6a10a0795cc02",
+        "android_client_info": {
+          "package_name": "com.example.catcafekotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2878921255-092tm4ldt5focpfcrli29g913s0unbjf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR-Y-Onm49mHDfYqpA03Q33NA7_C2P_fw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2878921255-092tm4ldt5focpfcrli29g913s0unbjf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
